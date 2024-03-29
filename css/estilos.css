@@ -1,0 +1,42 @@
+.tac-one-regular {
+    font-family: "Tac One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 10px;
+    color: white;
+  }
+  .parisienne-regular {
+    font-family: "Parisienne", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+  }
+  .container{
+    background-color: red;
+    height: 100px;
+  }
+  .container-fluid{
+  }
+  .row{
+    margin: 5px;
+  }
+  .col{
+    background-color: aqua;
+    margin: 5px;
+  }
+  .pagination{
+    margin-top: 10px;
+  }
+  .textos{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color:lavender;
+  }
+  .visually-hidden{
+    color: black;
+  }
+  .fondo{
+    background-color: rgb(38, 27, 46);
+  }
